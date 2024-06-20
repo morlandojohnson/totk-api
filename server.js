@@ -219,7 +219,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/api", (req, res) => {
-  res.json(character);
+  res.json(characters);
 });
 
 app.get("/api/:name", (req, res) => {
