@@ -15,6 +15,30 @@ const characters = {
       "https://www.zeldadungeon.net/wiki/images/4/4a/Buliara_-_TotK_Character_Profile_art.png",
   },
 
+  deku: {
+    name: "The Great Deku Tree",
+    title: "Great Spirit of Korok Forest",
+    race: "Tree",
+    image:
+      "https://www.zeldadungeon.net/wiki/images/b/b5/Great_Deku_Tree_-_TotK_Character_Profile_art.png",
+  },
+
+  "deku tree": {
+    name: "The Great Deku Tree",
+    title: "Great Spirit of Korok Forest",
+    race: "Tree",
+    image:
+      "https://www.zeldadungeon.net/wiki/images/b/b5/Great_Deku_Tree_-_TotK_Character_Profile_art.png",
+  },
+
+  dorephan: {
+    name: "King Dorephan",
+    title: "Former King of the Zora",
+    race: "Zora",
+    image:
+      "https://www.zeldadungeon.net/wiki/images/a/a5/Exalted_Dorephan_-_TotK_Character_Profile_art.png",
+  },
+
   ganondorf: {
     name: "Ganondorf",
     tite: "The Demon King",
@@ -79,11 +103,20 @@ const characters = {
       "https://www.zeldadungeon.net/wiki/images/d/d3/Rauru_-_TotK_Character_Profile_art.png",
   },
 
+  kohga: {
+    name: "Master Kohga",
+    title: "Leader of the Yiga Clan",
+    race: "Hylian",
+    image:
+      "https://www.zeldadungeon.net/wiki/images/a/a7/Master_Kohga_-_TotK_Character_Profile_art.png",
+  },
+
   link: {
     name: "Link",
     title: "Champion of Hyrule",
     race: "Hylian",
-    img: "https://www.zeldadungeon.net/wiki/images/d/d9/Link_Crouching_-_TotK_key_art_nobg.png",
+    image:
+      "https://www.zeldadungeon.net/wiki/images/d/d9/Link_Crouching_-_TotK_key_art_nobg.png",
   },
 
   "master kohga": {
@@ -126,6 +159,14 @@ const characters = {
       "https://www.zeldadungeon.net/wiki/images/8/8f/Sonia_-_TotK_Design_Art.png",
   },
 
+  rauru: {
+    name: "King Rauru",
+    title: "King of Hyrule",
+    race: "Zonai",
+    image:
+      "https://www.zeldadungeon.net/wiki/images/d/d3/Rauru_-_TotK_Character_Profile_art.png",
+  },
+
   riju: {
     name: "Riju",
     title: "The Sage of Lightning",
@@ -156,6 +197,14 @@ const characters = {
     race: "Zora",
     image:
       "https://www.zeldadungeon.net/wiki/images/0/0b/Sidon_-_TotK_key_art_nobg.png",
+  },
+
+  sonia: {
+    name: "Queen Sonia",
+    title: "First Queen of Hyrule",
+    race: "Hylian",
+    image:
+      "https://www.zeldadungeon.net/wiki/images/8/8f/Sonia_-_TotK_Design_Art.png",
   },
 
   tauro: {
