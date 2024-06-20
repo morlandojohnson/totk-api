@@ -41,7 +41,7 @@ const characters = {
 
   ganondorf: {
     name: "Ganondorf",
-    tite: "The Demon King",
+    title: "The Demon King",
     race: "Demon",
     image:
       "https://www.zeldadungeon.net/wiki/images/b/b6/Ganondorf_-_TotK_Character_Profile_art.png",
