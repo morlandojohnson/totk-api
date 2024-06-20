@@ -81,7 +81,7 @@ const characters = {
 
   link: {
     name: "Link",
-    tite: "Champion of Hyrule",
+    title: "Champion of Hyrule",
     race: "Hylian",
     img: "https://www.zeldadungeon.net/wiki/images/d/d9/Link_Crouching_-_TotK_key_art_nobg.png",
   },
